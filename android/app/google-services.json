@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "105356686899",
+    "project_id": "yoky-projects",
+    "storage_bucket": "yoky-projects.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105356686899:android:479eabcde40cfd7bc41546",
+        "android_client_info": {
+          "package_name": "com.mostafa3tta.my_first_proj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105356686899-46qrlr57qa5b46hvhabr77v1rphi64k4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mostafa3tta.my_first_proj",
+            "certificate_hash": "f6a75ebbf63798f2a20187d3990d0ceb6083371d"
+          }
+        },
+        {
+          "client_id": "105356686899-8rag5h7u323e7g1qgemor8infoao95g9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkw9CQ80I9lqdeLuQbGfDxOHNFViEUKXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105356686899-8rag5h7u323e7g1qgemor8infoao95g9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
